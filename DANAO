@@ -1,0 +1,9 @@
+git config-- global user.name danekamiedanao
+git config--global user.email danaodanekamie@gmail.com
+git init
+git status
+git DANAO
+git commit-m "first commit" 
+https://github.com/ri3lGab/activity_bsit/compare/main...ddanekamiedanao20:activity_bsit:patch-3
+git branch -M main
+git push -u origin main
